@@ -23,6 +23,14 @@ public class Zoo {
         System.out.println(a1.getName());
         a1.setName("大黑");
         System.out.println(a1.name);
+
+
+
+
+        //在创建一个类的对象
+        Animal a2 = new Animal();
+        System.out.println(" name: " + a2.name  +  " age: " + a2.age);
+
     }
 }
 
