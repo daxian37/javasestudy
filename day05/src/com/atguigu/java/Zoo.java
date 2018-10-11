@@ -33,9 +33,19 @@ package com.atguigu.java;
  *                            2）按照声明的位置不同：成员变狼 & 局部变量
  *
  *
- *   四。 类的方法：
+ *   四。 类的方法：提供某种功能的实现
+ *      1）实例： public void eat(){}
+ *               public String getName(){}
+ *               public void setName(String n){}
+ *         格式：全限修饰符号 返回值类型（void：无返回值 / 具体返回值）方法名（形参）{}
  *
+ *      2)注意：
+ *          关于返回值类型： void： 表明此方法不需要返回值
+ *                        有返回值的方法： 在方法的最后一定有return + 返回值类型对应的变量
  *
+ *              记忆： void和return不可以同时出现在一个方法内。像一对"冤家"
+ *
+ *      3）方法内可以调用本类的其他方法或属性，但你不能在方法内在定义方法
  *
  *
  *
@@ -75,7 +85,7 @@ public class Zoo {
         System.out.println(" name: " + a3.name  +  " age: " + a3.age);
         a3.name = "维尼熊";
         System.out.println(" name: " + a1.name  +  " age: " + a1.age);
-
+        System.out.println(a2.desc());
 
     }
 }
@@ -96,11 +106,29 @@ class Animal{
 
     public void sleep(){
         System.out.println("动物睡觉");
+
     }
     public  String getName(){
         return name;
     }
-    public void setName(String n){
+
+    public  int getAge(){
+        System.out.println("hello");
+        return age;
+        //其厚不能声明语句
+    }
+
+    //当通过对象调用此方法时，会将方法的返回值提供给方法的调用者，也就是当前的对象
+    public String desc(){
+       if (age>2){
+           return "倩同学少年";
+       }
+        else {
+           return "还是看动画屁啊把";
+       }
+    }
+
+    public void setName(String n){//n:局部变量
         name = n;
 
     }
@@ -111,5 +139,9 @@ class Animal{
 
     }
 
+    public  void info(){
+        eat();
+        sleep();
+    }
 
 }
