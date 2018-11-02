@@ -2,8 +2,10 @@
 //
 //import java.util.*;
 //import javax.mail.*;
+//import javax.jms.Session;
 //import javax.mail.internet.*;
-//import javax.activation.*;
+//
+//
 //
 //public class SendEmail
 //{
@@ -26,6 +28,8 @@
 //
 //        // 获取默认session对象
 //        Session session = Session.getDefaultInstance(properties);
+//
+//
 //
 //        try{
 //            // 创建默认的 MimeMessage 对象
