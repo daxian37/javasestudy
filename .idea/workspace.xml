@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2541496f-b6d4-47a8-ba6d-e56a0f1496c6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectOriented/src/TestPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/ObjectOriented/src/TestPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectOriented/src/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ObjectOriented/src/Zoo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/excercise/src/s.java" beforeDir="false" afterPath="$PROJECT_DIR$/excercise/src/primeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ObjectOriented/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ObjectOriented/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ObjectOriented/TestPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ObjectOriented/TestPerson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/excercise/s.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/excercise/s.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +21,7 @@
     <session id="-201004306">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.4" value="1" />
@@ -60,12 +54,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2423" />
+          <entry key="JAVA" value="2440" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2423" />
+          <entry key="java" value="2440" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -85,8 +79,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ObjectOriented/src/TestPerson.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+            <state relative-caret-position="139">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -219,7 +213,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541949920575" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541950127771" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 2.7" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -364,12 +358,12 @@
       <workItem from="1541684115763" duration="1039000" />
       <workItem from="1541896387723" duration="128000" />
       <workItem from="1541896698480" duration="448000" />
-      <workItem from="1541897434368" duration="7347000" />
+      <workItem from="1541897434368" duration="7713000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61233000" />
+    <option name="totallyTimeSpent" value="61599000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -382,7 +376,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1615" height="1040" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32990354" />
       <window_info id="Structure" order="1" weight="0.24918033" />
@@ -393,12 +386,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3646409" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3646409" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3889503" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32928178" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.4839779" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4839779" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3275488" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3281768" />
@@ -718,8 +711,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ObjectOriented/src/TestPerson.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        <state relative-caret-position="139">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
         </state>
       </provider>
     </entry>
